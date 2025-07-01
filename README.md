@@ -84,6 +84,6 @@ The best model was a **Random Forest Classifier** with optimized hyperparameters
 - `README.md` – This file
 ---
 ## 🚀 How to Run
-- git clone https://github.com/Nikhilsai-M/titanic-survival-prediction
+- git clone https://github.com/Nikhilsai-M/titanic-survival-prediction.git
 - cd titanic-survival-prediction
 - jupyter notebook run
